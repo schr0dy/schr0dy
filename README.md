@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @schr0dy
+- 
+- 🌱 I’m currently learning C#, vb.NET, JavaScript.
+- 
+- 📫 admin@schrod.dev
+-
