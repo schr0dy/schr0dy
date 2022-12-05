@@ -2,5 +2,4 @@
 - 
 - 🌱 I’m currently learning C#, vb.NET, JavaScript.
 - 
-- 📫 admin@schrod.dev
 -
